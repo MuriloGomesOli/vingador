@@ -1,6 +1,7 @@
 class Vingadores:
     lista_de_herois = []
 
+    
     def __init__(self, heroi, nome, categoria, poderes, poderzao, fraqueza, forca):
         self.heroi = heroi
         self.nome = nome
